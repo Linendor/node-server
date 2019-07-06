@@ -4,7 +4,7 @@ export default {
 
         host: 'remotemysql.com',
         user: 'sAPhZPbp3H',
-        password: 'sm8mJEJhQY',
+        password: '4SURhYx7Hr',
         database: 'sAPhZPbp3H',
         port: '3306'
     }
